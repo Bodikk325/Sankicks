@@ -1,4 +1,4 @@
-#Sankicks Sneaker boltÍ
+#Sankicks Sneaker bolt
 
 #Mivel nincs keret host-ra ezért ide töltöttem fel a kész projektet.
 
